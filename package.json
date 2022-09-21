@@ -1,6 +1,6 @@
 {
-  "name": "rollup-plugin-terser",
-  "version": "7.0.2",
+  "name": "@datawrapper/rollup-plugin-terser",
+  "version": "0.1.0",
   "description": "Rollup plugin to minify generated es bundle",
   "type": "commonjs",
   "main": "rollup-plugin-terser.js",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TrySound/rollup-plugin-terser.git"
+    "url": "git+https://github.com/datawrapper/rollup-plugin-terser.git"
   },
   "keywords": [
     "rollup",
@@ -29,7 +29,7 @@
     "terser",
     "minify"
   ],
-  "author": "Bogdan Chadkin <trysound@yandex.ru>",
+  "author": "Datawrapper GmbH",
   "license": "MIT",
   "dependencies": {
     "@babel/code-frame": "^7.10.4",
